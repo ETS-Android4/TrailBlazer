@@ -1,0 +1,7 @@
+Should do:
+    Set position of robot
+    Record robot path (based on way-points?)
+    Tell robot pose in telemetry
+        Mark way-points in Dashboard?
+    Preset movements
+        Go forward X feet, turn X degrees, go back to last set position, remove position (have telemetry list positions and current position/heading)
